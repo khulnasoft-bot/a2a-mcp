@@ -1,4 +1,6 @@
 name: Test Package
+permissions:
+  contents: read
 
 on:
   push:
